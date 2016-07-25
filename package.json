@@ -1,0 +1,31 @@
+{
+  "name": "react-meteor-step1",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebigsmall/react-meteor-step1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaearon/react-meteor-step1/issues"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-mounter": "^1.2.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "reactjs",
+    "reactmount",
+    "meteor"
+  ],
+  "author": "Jung-Ae,Lee",
+  "license": "ISC",
+  "description": "Entry point for ReactJS project with meteor"
+}
